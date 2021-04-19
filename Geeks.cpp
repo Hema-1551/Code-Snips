@@ -18,7 +18,7 @@ int main()
  {
 	//code
 	int a[101]={0}, n=0, t=0;
-    // cout<<"\nenter";
+     cout<<"\nenter";
 	cin>>t;
 	while(t--)
 	{
